@@ -115,7 +115,7 @@
 <circle cx="408" cy="154" r="1" fill="#398BFF" fill-opacity=".55"><animate attributeName="cy" values="154;144;154" dur="9s" repeatCount="indefinite"/></circle>
 <circle cx="654" cy="298" r="1.4" fill="#C4B5FD" fill-opacity=".55"><animate attributeName="cy" values="298;288;298" dur="5s" repeatCount="indefinite"/></circle>
 <text x="80" y="104" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="16" font-weight="600" letter-spacing="5" fill="#00E5FF">JINIL.TECH</text>
-<text x="78" y="196" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="76" font-weight="800" letter-spacing="1" fill="#F5F7FF">JINIL TAILOR</text>
+<text x="78" y="196" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="76" font-weight="800" letter-spacing="1" fill="#F5F7FF">CodeWithJinil</text>
 <text x="80" y="248" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="25" font-weight="500" fill="#C4B5FD">AI/ML Developer | Full-Stack Developer</text>
 <rect x="80" y="270" width="390" height="4" rx="2" fill="url(#jh-acc)" filter="url(#jh-glow)" opacity=".8"/>
 <rect x="80" y="270" width="390" height="4" rx="2" fill="url(#jh-acc)"/>
