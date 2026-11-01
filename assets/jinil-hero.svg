@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400" role="img" aria-labelledby="jh-t">
+<title id="jh-t">JINIL.TECH. Jinil Tailor, AI/ML Developer and Full-Stack Developer</title>
+<defs>
+<linearGradient id="jh-bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0A0F1D"/><stop offset=".55" stop-color="#10182B"/><stop offset="1" stop-color="#172238"/></linearGradient>
+<linearGradient id="jh-acc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00E5FF"/><stop offset=".5" stop-color="#398BFF"/><stop offset="1" stop-color="#9B5CFF"/></linearGradient>
+<radialGradient id="jh-gv" cx=".85" cy=".1" r=".6"><stop offset="0" stop-color="#9B5CFF" stop-opacity=".28"/><stop offset="1" stop-color="#9B5CFF" stop-opacity="0"/></radialGradient>
+<radialGradient id="jh-gc" cx=".1" cy=".95" r=".55"><stop offset="0" stop-color="#00E5FF" stop-opacity=".16"/><stop offset="1" stop-color="#00E5FF" stop-opacity="0"/></radialGradient>
+<pattern id="jh-grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#398BFF" stroke-opacity=".09" stroke-width="1"/></pattern>
+<filter id="jh-glow" x="-20%" y="-300%" width="140%" height="700%"><feGaussianBlur stdDeviation="4"/></filter>
+</defs>
+<rect width="1200" height="400" rx="18" fill="url(#jh-bg)"/>
+<rect width="1200" height="400" rx="18" fill="url(#jh-gv)"/>
+<rect width="1200" height="400" rx="18" fill="url(#jh-gc)"/>
+<rect width="1200" height="400" rx="18" fill="url(#jh-grid)"/>
+<rect x=".5" y=".5" width="1199" height="399" rx="18" fill="none" stroke="#C4B5FD" stroke-opacity=".18"/>
+<rect x="700" y="36" width="456" height="328" rx="20" fill="#F5F7FF" fill-opacity=".03" stroke="#C4B5FD" stroke-opacity=".16"/>
+<g stroke="#398BFF" stroke-opacity=".28" stroke-width="1">
+<line x1="750" y1="88.0" x2="860" y2="88.0"/>
+<line x1="750" y1="88.0" x2="860" y2="144.0"/>
+<line x1="750" y1="88.0" x2="860" y2="200.0"/>
+<line x1="750" y1="88.0" x2="860" y2="256.0"/>
+<line x1="750" y1="88.0" x2="860" y2="312.0"/>
+<line x1="750" y1="162.7" x2="860" y2="88.0"/>
+<line x1="750" y1="162.7" x2="860" y2="144.0"/>
+<line x1="750" y1="162.7" x2="860" y2="200.0"/>
+<line x1="750" y1="162.7" x2="860" y2="256.0"/>
+<line x1="750" y1="162.7" x2="860" y2="312.0"/>
+<line x1="750" y1="237.3" x2="860" y2="88.0"/>
+<line x1="750" y1="237.3" x2="860" y2="144.0"/>
+<line x1="750" y1="237.3" x2="860" y2="200.0"/>
+<line x1="750" y1="237.3" x2="860" y2="256.0"/>
+<line x1="750" y1="237.3" x2="860" y2="312.0"/>
+<line x1="750" y1="312.0" x2="860" y2="88.0"/>
+<line x1="750" y1="312.0" x2="860" y2="144.0"/>
+<line x1="750" y1="312.0" x2="860" y2="200.0"/>
+<line x1="750" y1="312.0" x2="860" y2="256.0"/>
+<line x1="750" y1="312.0" x2="860" y2="312.0"/>
+<line x1="860" y1="88.0" x2="970" y2="88.0"/>
+<line x1="860" y1="88.0" x2="970" y2="144.0"/>
+<line x1="860" y1="88.0" x2="970" y2="200.0"/>
+<line x1="860" y1="88.0" x2="970" y2="256.0"/>
+<line x1="860" y1="88.0" x2="970" y2="312.0"/>
+<line x1="860" y1="144.0" x2="970" y2="88.0"/>
+<line x1="860" y1="144.0" x2="970" y2="144.0"/>
+<line x1="860" y1="144.0" x2="970" y2="200.0"/>
+<line x1="860" y1="144.0" x2="970" y2="256.0"/>
+<line x1="860" y1="144.0" x2="970" y2="312.0"/>
+<line x1="860" y1="200.0" x2="970" y2="88.0"/>
+<line x1="860" y1="200.0" x2="970" y2="144.0"/>
+<line x1="860" y1="200.0" x2="970" y2="200.0"/>
+<line x1="860" y1="200.0" x2="970" y2="256.0"/>
+<line x1="860" y1="200.0" x2="970" y2="312.0"/>
+<line x1="860" y1="256.0" x2="970" y2="88.0"/>
+<line x1="860" y1="256.0" x2="970" y2="144.0"/>
+<line x1="860" y1="256.0" x2="970" y2="200.0"/>
+<line x1="860" y1="256.0" x2="970" y2="256.0"/>
+<line x1="860" y1="256.0" x2="970" y2="312.0"/>
+<line x1="860" y1="312.0" x2="970" y2="88.0"/>
+<line x1="860" y1="312.0" x2="970" y2="144.0"/>
+<line x1="860" y1="312.0" x2="970" y2="200.0"/>
+<line x1="860" y1="312.0" x2="970" y2="256.0"/>
+<line x1="860" y1="312.0" x2="970" y2="312.0"/>
+<line x1="970" y1="88.0" x2="1080" y2="88.0"/>
+<line x1="970" y1="88.0" x2="1080" y2="200.0"/>
+<line x1="970" y1="88.0" x2="1080" y2="312.0"/>
+<line x1="970" y1="144.0" x2="1080" y2="88.0"/>
+<line x1="970" y1="144.0" x2="1080" y2="200.0"/>
+<line x1="970" y1="144.0" x2="1080" y2="312.0"/>
+<line x1="970" y1="200.0" x2="1080" y2="88.0"/>
+<line x1="970" y1="200.0" x2="1080" y2="200.0"/>
+<line x1="970" y1="200.0" x2="1080" y2="312.0"/>
+<line x1="970" y1="256.0" x2="1080" y2="88.0"/>
+<line x1="970" y1="256.0" x2="1080" y2="200.0"/>
+<line x1="970" y1="256.0" x2="1080" y2="312.0"/>
+<line x1="970" y1="312.0" x2="1080" y2="88.0"/>
+<line x1="970" y1="312.0" x2="1080" y2="200.0"/>
+<line x1="970" y1="312.0" x2="1080" y2="312.0"/>
+</g>
+<path d="M750 88.0 L860 200.0 L970 144.0 L1080 200.0" fill="none" stroke="#00E5FF" stroke-opacity=".85" stroke-width="2" stroke-linecap="round" stroke-dasharray="46 380"><animate attributeName="stroke-dashoffset" values="0;-426" dur="4.0s" begin="0.0s" repeatCount="indefinite"/></path>
+<path d="M750 237.3 L860 88.0 L970 88.0 L1080 312.0" fill="none" stroke="#9B5CFF" stroke-opacity=".85" stroke-width="2" stroke-linecap="round" stroke-dasharray="46 380"><animate attributeName="stroke-dashoffset" values="0;-426" dur="5.3s" begin="0.7s" repeatCount="indefinite"/></path>
+<path d="M750 312.0 L860 88.0 L970 200.0 L1080 312.0" fill="none" stroke="#00E5FF" stroke-opacity=".85" stroke-width="2" stroke-linecap="round" stroke-dasharray="46 380"><animate attributeName="stroke-dashoffset" values="0;-426" dur="6.6s" begin="1.4s" repeatCount="indefinite"/></path>
+<circle cx="750" cy="88.0" r="6" fill="#00E5FF" fill-opacity="0.95"><animate attributeName="fill-opacity" values=".95;.45;.95" dur="3s" repeatCount="indefinite"/></circle>
+<circle cx="750" cy="162.7" r="4.5" fill="#C4B5FD" fill-opacity="0.7"></circle>
+<circle cx="750" cy="237.3" r="4.5" fill="#C4B5FD" fill-opacity="0.7"></circle>
+<circle cx="750" cy="312.0" r="6" fill="#00E5FF" fill-opacity="0.95"><animate attributeName="fill-opacity" values=".95;.45;.95" dur="3s" repeatCount="indefinite"/></circle>
+<circle cx="860" cy="88.0" r="4.5" fill="#C4B5FD" fill-opacity="0.7"></circle>
+<circle cx="860" cy="144.0" r="4.5" fill="#C4B5FD" fill-opacity="0.7"></circle>
+<circle cx="860" cy="200.0" r="6" fill="#00E5FF" fill-opacity="0.95"><animate attributeName="fill-opacity" values=".95;.45;.95" dur="3s" repeatCount="indefinite"/></circle>
+<circle cx="860" cy="256.0" r="4.5" fill="#C4B5FD" fill-opacity="0.7"></circle>
+<circle cx="860" cy="312.0" r="4.5" fill="#C4B5FD" fill-opacity="0.7"></circle>
+<circle cx="970" cy="88.0" r="4.5" fill="#C4B5FD" fill-opacity="0.7"></circle>
+<circle cx="970" cy="144.0" r="6" fill="#00E5FF" fill-opacity="0.95"><animate attributeName="fill-opacity" values=".95;.45;.95" dur="3s" repeatCount="indefinite"/></circle>
+<circle cx="970" cy="200.0" r="4.5" fill="#C4B5FD" fill-opacity="0.7"></circle>
+<circle cx="970" cy="256.0" r="4.5" fill="#C4B5FD" fill-opacity="0.7"></circle>
+<circle cx="970" cy="312.0" r="6" fill="#00E5FF" fill-opacity="0.95"><animate attributeName="fill-opacity" values=".95;.45;.95" dur="3s" repeatCount="indefinite"/></circle>
+<circle cx="1080" cy="88.0" r="6" fill="#00E5FF" fill-opacity="0.95"><animate attributeName="fill-opacity" values=".95;.45;.95" dur="3s" repeatCount="indefinite"/></circle>
+<circle cx="1080" cy="200.0" r="4.5" fill="#C4B5FD" fill-opacity="0.7"></circle>
+<circle cx="1080" cy="312.0" r="4.5" fill="#C4B5FD" fill-opacity="0.7"></circle>
+<g fill="none" stroke="#9B5CFF" stroke-opacity=".22"><circle cx="1010" cy="200" r="150"/><circle cx="1010" cy="200" r="96" stroke="#00E5FF" stroke-opacity=".16" stroke-dasharray="3 7"/></g>
+<circle cx="1010" cy="50" r="4" fill="#00E5FF"><animateTransform attributeName="transform" type="rotate" from="0 1010 200" to="360 1010 200" dur="28s" repeatCount="indefinite"/></circle>
+<circle cx="158" cy="289" r="1" fill="#00E5FF" fill-opacity=".55"><animate attributeName="cy" values="289;279;289" dur="5s" repeatCount="indefinite"/></circle>
+<circle cx="216" cy="252" r="1.4" fill="#00E5FF" fill-opacity=".55"><animate attributeName="cy" values="252;242;252" dur="6s" repeatCount="indefinite"/></circle>
+<circle cx="532" cy="76" r="1.8" fill="#C4B5FD" fill-opacity=".55"><animate attributeName="cy" values="76;66;76" dur="7s" repeatCount="indefinite"/></circle>
+<circle cx="161" cy="319" r="1" fill="#00E5FF" fill-opacity=".55"><animate attributeName="cy" values="319;309;319" dur="8s" repeatCount="indefinite"/></circle>
+<circle cx="166" cy="325" r="1.8" fill="#C4B5FD" fill-opacity=".55"><animate attributeName="cy" values="325;315;325" dur="9s" repeatCount="indefinite"/></circle>
+<circle cx="141" cy="143" r="1" fill="#398BFF" fill-opacity=".55"><animate attributeName="cy" values="143;133;143" dur="5s" repeatCount="indefinite"/></circle>
+<circle cx="312" cy="178" r="1.4" fill="#00E5FF" fill-opacity=".55"><animate attributeName="cy" values="178;168;178" dur="6s" repeatCount="indefinite"/></circle>
+<circle cx="1147" cy="90" r="1.8" fill="#C4B5FD" fill-opacity=".55"><animate attributeName="cy" values="90;80;90" dur="7s" repeatCount="indefinite"/></circle>
+<circle cx="410" cy="82" r="1.8" fill="#398BFF" fill-opacity=".55"><animate attributeName="cy" values="82;72;82" dur="8s" repeatCount="indefinite"/></circle>
+<circle cx="424" cy="220" r="1" fill="#398BFF" fill-opacity=".55"><animate attributeName="cy" values="220;210;220" dur="9s" repeatCount="indefinite"/></circle>
+<circle cx="168" cy="318" r="1" fill="#398BFF" fill-opacity=".55"><animate attributeName="cy" values="318;308;318" dur="5s" repeatCount="indefinite"/></circle>
+<circle cx="461" cy="284" r="1.8" fill="#398BFF" fill-opacity=".55"><animate attributeName="cy" values="284;274;284" dur="6s" repeatCount="indefinite"/></circle>
+<circle cx="915" cy="190" r="1.4" fill="#398BFF" fill-opacity=".55"><animate attributeName="cy" values="190;180;190" dur="7s" repeatCount="indefinite"/></circle>
+<circle cx="968" cy="215" r="1.4" fill="#00E5FF" fill-opacity=".55"><animate attributeName="cy" values="215;205;215" dur="8s" repeatCount="indefinite"/></circle>
+<circle cx="408" cy="154" r="1" fill="#398BFF" fill-opacity=".55"><animate attributeName="cy" values="154;144;154" dur="9s" repeatCount="indefinite"/></circle>
+<circle cx="654" cy="298" r="1.4" fill="#C4B5FD" fill-opacity=".55"><animate attributeName="cy" values="298;288;298" dur="5s" repeatCount="indefinite"/></circle>
+<text x="80" y="104" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="16" font-weight="600" letter-spacing="5" fill="#00E5FF">JINIL.TECH</text>
+<text x="78" y="196" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="76" font-weight="800" letter-spacing="1" fill="#F5F7FF">JINIL TAILOR</text>
+<text x="80" y="248" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="25" font-weight="500" fill="#C4B5FD">AI/ML Developer | Full-Stack Developer</text>
+<rect x="80" y="270" width="390" height="4" rx="2" fill="url(#jh-acc)" filter="url(#jh-glow)" opacity=".8"/>
+<rect x="80" y="270" width="390" height="4" rx="2" fill="url(#jh-acc)"/>
+<line x1="80" y1="272" x2="470" y2="272" stroke="#F5F7FF" stroke-width="3" stroke-linecap="round" stroke-opacity=".9" stroke-dasharray="40 600"><animate attributeName="stroke-dashoffset" values="40;-390" dur="4.5s" repeatCount="indefinite"/></line>
+<text x="80" y="318" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="17" fill="#9CAAC4">Python, Flask, Android, and AI integrations.</text>
+<text x="80" y="344" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="17" fill="#9CAAC4">BCA in Artificial Intelligence, Parul University.</text>
+</svg>

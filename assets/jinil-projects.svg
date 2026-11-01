@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" width="1200" height="520" role="img" aria-labelledby="jp-t">
+<title id="jp-t">Project case studies from the JINIL.TECH portfolio</title>
+<defs>
+<linearGradient id="jp-bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0A0F1D"/><stop offset=".55" stop-color="#10182B"/><stop offset="1" stop-color="#172238"/></linearGradient>
+<linearGradient id="jp-acc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00E5FF"/><stop offset=".5" stop-color="#398BFF"/><stop offset="1" stop-color="#9B5CFF"/></linearGradient>
+<radialGradient id="jp-gv" cx=".85" cy=".1" r=".6"><stop offset="0" stop-color="#9B5CFF" stop-opacity=".28"/><stop offset="1" stop-color="#9B5CFF" stop-opacity="0"/></radialGradient>
+<radialGradient id="jp-gc" cx=".1" cy=".95" r=".55"><stop offset="0" stop-color="#00E5FF" stop-opacity=".16"/><stop offset="1" stop-color="#00E5FF" stop-opacity="0"/></radialGradient>
+<pattern id="jp-grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#398BFF" stroke-opacity=".09" stroke-width="1"/></pattern>
+<filter id="jp-glow" x="-20%" y="-300%" width="140%" height="700%"><feGaussianBlur stdDeviation="4"/></filter>
+</defs>
+<rect width="1200" height="520" rx="18" fill="url(#jp-bg)"/><rect width="1200" height="520" rx="18" fill="url(#jp-gv)"/><rect width="1200" height="520" rx="18" fill="url(#jp-grid)"/>
+<rect x=".5" y=".5" width="1199" height="519" rx="18" fill="none" stroke="#C4B5FD" stroke-opacity=".18"/>
+<text x="40" y="46" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="700" fill="#F5F7FF">Project case studies</text>
+<text x="1160" y="44" text-anchor="end" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#9CAAC4">Descriptions as published on the JINIL.TECH portfolio</text>
+<rect x="40" y="70" width="353" height="190" rx="16" fill="#F5F7FF" fill-opacity=".035" stroke="#C4B5FD" stroke-opacity=".16"/>
+<rect x="62" y="92" width="40" height="3" rx="1.5" fill="url(#jp-acc)"/>
+<text x="62" y="126" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16.5" font-weight="700" fill="#F5F7FF">Vocab Master</text>
+<text x="62" y="154" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" fill="#9CAAC4">AI-driven vocabulary learning platform with</text>
+<text x="62" y="174" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" fill="#9CAAC4">progress tracking.</text>
+<rect x="62" y="212" width="65" height="28" rx="14" fill="#398BFF" fill-opacity=".1" stroke="#398BFF" stroke-opacity=".5"/><text x="94.5" y="231" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#F5F7FF">Python</text>
+<rect x="135" y="212" width="58" height="28" rx="14" fill="#398BFF" fill-opacity=".1" stroke="#398BFF" stroke-opacity=".5"/><text x="164.0" y="231" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#F5F7FF">Flask</text>
+<rect x="201" y="212" width="151" height="28" rx="14" fill="#398BFF" fill-opacity=".1" stroke="#398BFF" stroke-opacity=".5"/><text x="276.5" y="231" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#F5F7FF">Firebase Firestore</text>
+<rect x="423" y="70" width="353" height="190" rx="16" fill="#F5F7FF" fill-opacity=".035" stroke="#C4B5FD" stroke-opacity=".16"/>
+<rect x="445" y="92" width="40" height="3" rx="1.5" fill="url(#jp-acc)"/>
+<text x="445" y="126" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16.5" font-weight="700" fill="#F5F7FF">AI-Integrated Healthcare System</text>
+<text x="445" y="154" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" fill="#9CAAC4">Patient services with an AI chatbot,</text>
+<text x="445" y="174" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" fill="#9CAAC4">appointments, and feedback.</text>
+<rect x="445" y="212" width="94" height="28" rx="14" fill="#398BFF" fill-opacity=".1" stroke="#398BFF" stroke-opacity=".5"/><text x="492.0" y="231" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#F5F7FF">AI Chatbot</text>
+<rect x="547" y="212" width="158" height="28" rx="14" fill="#398BFF" fill-opacity=".1" stroke="#398BFF" stroke-opacity=".5"/><text x="626.0" y="231" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#F5F7FF">Appointment Booking</text>
+<rect x="806" y="70" width="353" height="190" rx="16" fill="#F5F7FF" fill-opacity=".035" stroke="#C4B5FD" stroke-opacity=".16"/>
+<rect x="828" y="92" width="40" height="3" rx="1.5" fill="url(#jp-acc)"/>
+<text x="828" y="126" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16.5" font-weight="700" fill="#F5F7FF">STC Data Management</text>
+<text x="828" y="154" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" fill="#9CAAC4">Android app for Standards 7–12 with voice</text>
+<text x="828" y="174" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" fill="#9CAAC4">and image-based help.</text>
+<rect x="828" y="212" width="72" height="28" rx="14" fill="#398BFF" fill-opacity=".1" stroke="#398BFF" stroke-opacity=".5"/><text x="864.0" y="231" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#F5F7FF">Android</text>
+<rect x="908" y="212" width="50" height="28" rx="14" fill="#398BFF" fill-opacity=".1" stroke="#398BFF" stroke-opacity=".5"/><text x="933.0" y="231" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#F5F7FF">Java</text>
+<rect x="966" y="212" width="43" height="28" rx="14" fill="#398BFF" fill-opacity=".1" stroke="#398BFF" stroke-opacity=".5"/><text x="987.5" y="231" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#F5F7FF">XML</text>
+<rect x="40" y="280" width="353" height="190" rx="16" fill="#F5F7FF" fill-opacity=".035" stroke="#C4B5FD" stroke-opacity=".16"/>
+<rect x="62" y="302" width="40" height="3" rx="1.5" fill="url(#jp-acc)"/>
+<text x="62" y="336" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16.5" font-weight="700" fill="#F5F7FF">Student Management System</text>
+<text x="62" y="364" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" fill="#9CAAC4">Web app that centralizes student, faculty,</text>
+<text x="62" y="384" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" fill="#9CAAC4">and admin records.</text>
+<rect x="62" y="422" width="72" height="28" rx="14" fill="#398BFF" fill-opacity=".1" stroke="#398BFF" stroke-opacity=".5"/><text x="98.0" y="441" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#F5F7FF">Web App</text>
+<rect x="142" y="422" width="130" height="28" rx="14" fill="#398BFF" fill-opacity=".1" stroke="#398BFF" stroke-opacity=".5"/><text x="207.0" y="441" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#F5F7FF">Admin Dashboard</text>
+<rect x="423" y="280" width="353" height="190" rx="16" fill="#F5F7FF" fill-opacity=".035" stroke="#C4B5FD" stroke-opacity=".16"/>
+<rect x="445" y="302" width="40" height="3" rx="1.5" fill="url(#jp-acc)"/>
+<text x="445" y="336" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16.5" font-weight="700" fill="#F5F7FF">Cab Booking System</text>
+<text x="445" y="364" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" fill="#9CAAC4">Ride booking with driver tracking and</text>
+<text x="445" y="384" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" fill="#9CAAC4">payment management.</text>
+<rect x="445" y="422" width="72" height="28" rx="14" fill="#398BFF" fill-opacity=".1" stroke="#398BFF" stroke-opacity=".5"/><text x="481.0" y="441" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#F5F7FF">Web App</text>
+<rect x="525" y="422" width="72" height="28" rx="14" fill="#398BFF" fill-opacity=".1" stroke="#398BFF" stroke-opacity=".5"/><text x="561.0" y="441" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#F5F7FF">Booking</text>
+<rect x="806" y="280" width="353" height="190" rx="16" fill="#F5F7FF" fill-opacity=".035" stroke="#C4B5FD" stroke-opacity=".16"/>
+<rect x="828" y="302" width="40" height="3" rx="1.5" fill="url(#jp-acc)"/>
+<text x="828" y="336" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16.5" font-weight="700" fill="#F5F7FF">Sporto</text>
+<text x="828" y="364" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" fill="#9CAAC4">Sports e-commerce with inventory, roles, and</text>
+<text x="828" y="384" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" fill="#9CAAC4">order tracking.</text>
+<rect x="828" y="422" width="94" height="28" rx="14" fill="#398BFF" fill-opacity=".1" stroke="#398BFF" stroke-opacity=".5"/><text x="875.0" y="441" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#F5F7FF">E-commerce</text>
+<rect x="930" y="422" width="144" height="28" rx="14" fill="#398BFF" fill-opacity=".1" stroke="#398BFF" stroke-opacity=".5"/><text x="1002.0" y="441" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#F5F7FF">Role-Based Access</text>
+</svg>
