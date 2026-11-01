@@ -28,11 +28,11 @@ Hi, I’m Jinil Tailor — an AI-focused developer passionate about building int
 ## Featured projects
 
 **[JINIL.TECH portfolio](https://github.com/CodeWithJinil/Jinil.Tech-portfolio)** — a dark, futuristic personal site with a neural-network hero, a filterable skills matrix, and project case studies. Built with plain HTML, CSS, and JavaScript.
-[Source code](https://github.com/CodeWithJinil/Jinil.Tech-portfolio) · [Live site](https://jinil-portfolio-rose.vercel.app)
+[Source code](https://github.com/CodeWithJinil/Jinil.Tech-portfolio) · [Live site](https://codewithjinil-portfolio.vercel.app/)
 
 <img src="assets/jinil-projects.svg" alt="Project case studies: Vocab Master, AI-Integrated Healthcare System, STC Data Management, Student Management System, Cab Booking System, and Sporto." width="100%">
 
-Full write-ups of these projects are on the [portfolio](https://jinil-portfolio-rose.vercel.app). Repository links will be added here as each project’s source is published.
+Full write-ups of these projects are on the [portfolio](https://codewithjinil-portfolio.vercel.app/). Repository links will be added here as each project’s source is published.
 
 <img src="assets/section-divider.svg" alt="" width="100%">
 
@@ -74,7 +74,7 @@ I’m still learning these. They are not yet part of my day-to-day toolkit.
 <div align="center">
 
 <a href="https://github.com/CodeWithJinil"><img src="assets/link-github.svg" alt="GitHub: CodeWithJinil" height="48"></a>
-<a href="https://jinil-portfolio-rose.vercel.app"><img src="assets/link-portfolio.svg" alt="Portfolio: jinil-portfolio-rose.vercel.app" height="48"></a>
+<a href="https://codewithjinil-portfolio.vercel.app/"><img src="assets/link-portfolio.svg" alt="Portfolio: jinil-portfolio-rose.vercel.app" height="48"></a>
 <a href="https://www.linkedin.com/in/jinil-tailor-676a61219/"><img src="assets/link-linkedin.svg" alt="LinkedIn: Jinil Tailor" height="48"></a>
 <a href="https://codepen.io/Tailor-Jinil"><img src="assets/link-codepen.svg" alt="CodePen: Tailor-Jinil" height="48"></a>
 
