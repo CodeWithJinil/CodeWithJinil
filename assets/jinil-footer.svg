@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 170" width="1200" height="170" role="img" aria-labelledby="jf-t">
+<title id="jf-t">JINIL.TECH. Building ideas into intelligent solutions.</title>
+<defs>
+<linearGradient id="jf-bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0A0F1D"/><stop offset=".55" stop-color="#10182B"/><stop offset="1" stop-color="#172238"/></linearGradient>
+<linearGradient id="jf-acc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00E5FF"/><stop offset=".5" stop-color="#398BFF"/><stop offset="1" stop-color="#9B5CFF"/></linearGradient>
+<radialGradient id="jf-gv" cx=".85" cy=".1" r=".6"><stop offset="0" stop-color="#9B5CFF" stop-opacity=".28"/><stop offset="1" stop-color="#9B5CFF" stop-opacity="0"/></radialGradient>
+<radialGradient id="jf-gc" cx=".1" cy=".95" r=".55"><stop offset="0" stop-color="#00E5FF" stop-opacity=".16"/><stop offset="1" stop-color="#00E5FF" stop-opacity="0"/></radialGradient>
+<pattern id="jf-grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#398BFF" stroke-opacity=".09" stroke-width="1"/></pattern>
+<filter id="jf-glow" x="-20%" y="-300%" width="140%" height="700%"><feGaussianBlur stdDeviation="4"/></filter>
+</defs>
+<rect width="1200" height="170" rx="18" fill="url(#jf-bg)"/><rect width="1200" height="170" rx="18" fill="url(#jf-gv)"/><rect width="1200" height="170" rx="18" fill="url(#jf-grid)"/>
+<rect x=".5" y=".5" width="1199" height="169" rx="18" fill="none" stroke="#C4B5FD" stroke-opacity=".18"/>
+<path d="M60 112.0 L140 129.2 L220 133.4 L300 121.4 L380 102.3 L460 90.5 L540 95.0 L620 112.4 L700 129.5 L780 133.3 L860 121.1 L940 101.9 L1020 90.4 L1100 95.2 L1180 112.7" fill="none" stroke="#398BFF" stroke-opacity=".3" stroke-width="1.5"/>
+<path d="M60 112.0 L140 129.2 L220 133.4 L300 121.4 L380 102.3 L460 90.5 L540 95.0 L620 112.4 L700 129.5 L780 133.3 L860 121.1 L940 101.9 L1020 90.4 L1100 95.2 L1180 112.7" fill="none" stroke="url(#jf-acc)" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="70 1100"><animate attributeName="stroke-dashoffset" values="0;-1170" dur="7s" repeatCount="indefinite"/></path>
+<circle cx="60" cy="112.0" r="4" fill="#00E5FF" fill-opacity=".8"/>
+<circle cx="140" cy="129.2" r="3" fill="#C4B5FD" fill-opacity=".8"/>
+<circle cx="220" cy="133.4" r="3" fill="#C4B5FD" fill-opacity=".8"/>
+<circle cx="300" cy="121.4" r="4" fill="#00E5FF" fill-opacity=".8"/>
+<circle cx="380" cy="102.3" r="3" fill="#C4B5FD" fill-opacity=".8"/>
+<circle cx="460" cy="90.5" r="3" fill="#C4B5FD" fill-opacity=".8"/>
+<circle cx="540" cy="95.0" r="4" fill="#00E5FF" fill-opacity=".8"/>
+<circle cx="620" cy="112.4" r="3" fill="#C4B5FD" fill-opacity=".8"/>
+<circle cx="700" cy="129.5" r="3" fill="#C4B5FD" fill-opacity=".8"/>
+<circle cx="780" cy="133.3" r="4" fill="#00E5FF" fill-opacity=".8"/>
+<circle cx="860" cy="121.1" r="3" fill="#C4B5FD" fill-opacity=".8"/>
+<circle cx="940" cy="101.9" r="3" fill="#C4B5FD" fill-opacity=".8"/>
+<circle cx="1020" cy="90.4" r="4" fill="#00E5FF" fill-opacity=".8"/>
+<circle cx="1100" cy="95.2" r="3" fill="#C4B5FD" fill-opacity=".8"/>
+<circle cx="1180" cy="112.7" r="3" fill="#C4B5FD" fill-opacity=".8"/>
+<text x="600" y="58" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="26" font-weight="600" fill="#F5F7FF">Building ideas into intelligent solutions.</text>
+<text x="600" y="86" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="13" letter-spacing="4" fill="#00E5FF">JINIL.TECH</text>
+</svg>
